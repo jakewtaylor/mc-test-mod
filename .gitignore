@@ -1,0 +1,10 @@
+# gradle
+build
+.gradle
+
+# idea
+.idea
+
+# other
+run
+.DS_Store

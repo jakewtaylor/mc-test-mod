@@ -1,0 +1,28 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ICI",
+    "CIC",
+    "ICI"
+  ],
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "C": [
+      {
+        "item": "minecraft:coal",
+        "data": 0
+      },
+      {
+        "item": "minecraft:coal",
+        "data": 1
+      }
+    ]
+  },
+  "result": {
+    "item": "testmod:steel_block",
+    "count": 2
+  }
+}

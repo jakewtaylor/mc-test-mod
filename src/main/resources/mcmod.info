@@ -1,0 +1,8 @@
+[{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "Simple test mod.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "authorList": ["jakewtaylor"]
+}]
